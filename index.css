@@ -1,19 +1,24 @@
 body {
     margin:0;
+    background-color: #003566;
 }
 
 .section {
     display: grid;
-
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 1em;
 }
 
 
 @media (max-width:770px) {
-
+    grid-template-columns: ;
+    grid-template-rows: ;
 }
 
 
 
 @media (max-width:426px) {
-    
+    grid-template-columns: ;
+    grid-template-rows: ;
 }
