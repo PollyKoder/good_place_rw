@@ -28,7 +28,8 @@ Frist: 29 sept 2023, kl. 15:00
         - Blå: #003566
         - Gul(oak?): #ffc300 
         - Lys Gul: #ffd60a
-- Vurderte først å ha mellomblå bakrgunn med gul tekst, men syns siden blir for mørk i kontrast til serien, som for det meste er lett og fokuserer på humor, prøver derfor med gul bakgrunn og mørkeblå tekst.
+- Vurderte først å ha mellomblå bakrgunn med gul tekst, men syns siden blir for mørk i kontrast til serien, som for det meste er lett og fokuserer på humor, prøver derfor med gul bakgrunn og mørkeblå tekst. 
+- Vil endre teksten til en litt lysere blåfarge, da den ikke var så tydlig blå slik den er nå.
 
 
 # Sitater til vurdering:
