@@ -18,6 +18,17 @@ body {
     gap: 1em;
 }
 
+.imgBox {
+    background-color: #ffc300 ;
+    border: 3px solid rgb(254, 254, 118);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 1.5em;
+}
+
 
 @media (max-width:770px) {
     grid-template-columns: repeat(2, 1fr);
