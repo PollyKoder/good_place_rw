@@ -43,7 +43,9 @@ Frist: 29 sept 2023, kl. 15:00
 - Føler teksten er liten, juster i css! Sett undeline på rollenes navn.
 - prøvde å minimere css kode og heller ha flere klasser, skal se over når koden er helt ferdig å se hvor/hvordan jeg kan gjøre den tørrere.
 
-- legger ved en footer med et sitat som er mye brukt av flere av rollene i serien på toppen, kildekode, mitt navn og navn på skapere av serien og hovedrollenes skuespillere.
+- Legger ved en footer med et sitat som er mye brukt av flere av rollene i serien på toppen, kildekode, mitt navn og navn på skapere av serien og hovedrollenes skuespillere.
+- Ble litt ekstra css til flex bokser i footeren, vil tro dette kan gjøres tørrere, men begynner å gå tom for tid da lokalene her stenger tidligere idag. Så da velger jeg å fokusere på funksjon via Netlify og eventuell "troubleshooting".
+
 
 
 # Sitater til vurdering: (sitater markert med 1-tall er mest aktuell)
