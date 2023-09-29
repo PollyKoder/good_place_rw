@@ -32,6 +32,9 @@ Frist: 29 sept 2023, kl. 15:00
 - Vil endre teksten til en litt lysere blåfarge, da den ikke var så tydlig blå slik den er nå.
 
 - Satt en stund og undret på hvorfor siden ikke ville skalere riktig, så nå at jeg hadde glemt å targette class med grid'en som skal skaleres i @media query...
+- Er godt mulig jeg ikke trenger max-width på både img og imgBox, men syns siden fungerte bedre når den er på begge to.
+- På tide å leke seg litt med fargene på rolle-kortene(imgBox), satt det orginalt opp som background-color: #ffc300 og border: 3px solid #f8f85d. Prøvde på en blå border (#001d3d), 
+
 
 
 # Sitater til vurdering:

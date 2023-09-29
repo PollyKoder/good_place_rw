@@ -21,7 +21,7 @@ body {
 
 .imgBox {
     background-color: #ffc300 ;
-    border: 3px solid #f8f85d;
+    border: 3px solid #001d3d;
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -46,6 +46,8 @@ body {
 
 
 @media (max-width:426px) {
+    .section {
     grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: ;
+    grid-template-rows: repeat(6, 1fr);
+    }
 }
