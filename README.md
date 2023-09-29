@@ -31,6 +31,8 @@ Frist: 29 sept 2023, kl. 15:00
 - Vurderte først å ha mellomblå bakrgunn med gul tekst, men syns siden blir for mørk i kontrast til serien, som for det meste er lett og fokuserer på humor, prøver derfor med gul bakgrunn og mørkeblå tekst. 
 - Vil endre teksten til en litt lysere blåfarge, da den ikke var så tydlig blå slik den er nå.
 
+- Satt en stund og undret på hvorfor siden ikke ville skalere riktig, så nå at jeg hadde glemt å targette class med grid'en som skal skaleres i @media query...
+
 
 # Sitater til vurdering:
 

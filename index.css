@@ -2,7 +2,7 @@ body {
     margin:0;
     background-color: #ffd60a;
     color: #003566;
-    font-family: ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header {
@@ -15,29 +15,37 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    gap: 1em;
+    gap: 2em;
+    padding:1em;
 }
 
 .imgBox {
     background-color: #ffc300 ;
-    border: 3px solid rgb(254, 254, 118);
+    border: 3px solid #f8f85d;
     border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-top: 1.5em;
+    padding: 1.5em;
+    max-width: 100%;
+}
+
+.img {
+    max-width: 100%;
 }
 
 
 @media (max-width:770px) {
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(3, 1fr);
+    .section {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+    }
 }
 
 
 
 @media (max-width:426px) {
-    grid-template-columns: ;
+    grid-template-columns: repeat(1, 1fr);
     grid-template-rows: ;
 }
